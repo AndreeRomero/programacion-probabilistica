@@ -5,3 +5,14 @@ programacion estocastica incorporamos la aleatoridad, en la programacion probabi
 - Probabilidad independiente: los eventos no están relacionados entre sí.
 
 Algo depende de otro evento usaremos las formulas del archivo "untitled"
+
+3. TEOREMA DE BAYES
+
+P(H E) = P(E | H) * P (H / P(E)
+
+Donde H es la hipótesis (prior),
+E es el evento,
+P(H) es la probabilidad de que la hipçotesis sea verdadera, antes de la evidencia
+P(E|H) es la porbabilidad de que ocurra la evidencia si la hipótesis es verdadera
+P(E) probabilidad de que ocurra la evidencia
+P(H|E) es la probabilidad de que la hipótesis sea verdadera da una evidencia
