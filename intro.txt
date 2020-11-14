@@ -3,3 +3,5 @@ programacion estocastica incorporamos la aleatoridad, en la programacion probabi
 2. Probabilidad condicional:
 
 - Probabilidad independiente: los eventos no están relacionados entre sí.
+
+Algo depende de otro evento usaremos las formulas del archivo "untitled"
