@@ -1,0 +1,5 @@
+programacion estocastica incorporamos la aleatoridad, en la programacion probabilista trabajamos directamente con estas probabilidades que ya conocemos.
+
+2. Probabilidad condicional:
+
+- Probabilidad independiente: los eventos no están relacionados entre sí.
